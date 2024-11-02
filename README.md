@@ -6,12 +6,16 @@ Key Features & Benefits of Neko:
 
 1.Mood Checking & Personalized Responses
 Neko is trained to pick up on your emotions and respond in a way that feels comforting and relevant, offering feedback that can help you understand and improve your mood.
+
 2.Unique, Playful Personality
 With its clever, playful cat personality, Neko adds a lighthearted twist to every chat. This AI kitty brings positivity, a bit of sass, and warmth to make every interaction enjoyable!
+
 3.Mental Health & Wellness Tips
 Neko shares scientifically-backed techniques for stress relief, mindfulness practices, and positive reinforcement tailored just for you.
+
 4.Mood-Boosting Interaction
 With purrs, meows, and witty remarks, Neko knows how to make you smile. It’s the perfect blend of helpfulness and charm.
+
 5.Encouraging Reflection & Mindfulness
 Neko isn’t just about the chat—it encourages you to reflect on your thoughts and develop a mindful approach to emotions and wellbeing.
 
